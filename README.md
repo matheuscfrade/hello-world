@@ -1,2 +1,3 @@
 # hello-world
-initiating a repository
+Hi, I'm Matheus! I'm a new user on GitHub!
+This is my first commit message.
